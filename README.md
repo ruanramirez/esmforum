@@ -38,4 +38,4 @@ Este sistema foi implementado por Daniel Ferreira, aluno de graduação em Ciên
 
 O sistema possui uma licença MIT.
 
-Alteração solicitada pelo Professor.
+Alteração solicitada pelo Professor. 
