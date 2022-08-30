@@ -1,0 +1,10 @@
+Filtrar palavras consideradas ofensivas ou impróprias enquanto o usuário digita
+Ator: Usuário
+
+Fluxo normal:
+_Autenticar_usuário_
+Usuário escreve mensagem
+Sistema filtra palavra
+Sistema pergunta se o usuário deseja alterar a palavra ou excluir
+
+Extensões:
