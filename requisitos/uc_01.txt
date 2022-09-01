@@ -2,9 +2,12 @@ Filtrar palavras consideradas ofensivas ou impróprias enquanto o usuário digit
 Ator: Usuário
 
 Fluxo normal:
-_Autenticar_usuário_
-Usuário escreve mensagem
-Sistema filtra palavra
-Sistema pergunta se o usuário deseja alterar a palavra ou excluir
+1 - _Autenticar_usuário_
+2 - Usuário escreve mensagem
+3 - Sistema filtra palavra antes do envio
+4 - Sistema pergunta se o usuário deseja alterar a palavra selecionada
+5 - Usuário decide a ação
+6 - A mensagem é enviada
 
 Extensões:
+4a - Se o usuário não alterar a palavra, a mensagem não será enviada
