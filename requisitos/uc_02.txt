@@ -1,1 +1,13 @@
+Alterar foto de perfil
+Ator: Usuário
 
+Fluxo normal:
+1 - _Autenticar_usuário_
+2 - Usuário clica em seu perfil
+3 - Usuário seleciona uma novo foto
+4 - É inserida a foto ao perfil
+5 - Notificar alteração de foto de perfil
+
+Extensões:
+4a - Se a foto for maior que 4mb, solicitar uma foto mais leve
+4b - Se já existi uma foto no perfil, notificar se deseja alterar a foto
