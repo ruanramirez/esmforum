@@ -1,0 +1,19 @@
+Cenário 1: Inserir foto no perfil
+Dado que sou um usuário
+E estou cadastrado no sistema
+Quando acessar o meu perfil
+Então devo poder inserir uma foto ao perfil
+
+Cenário 2: Alterar foto no perfil
+Dado que sou um usuário
+E estou cadastrado no sistema
+Quando acessar o meu perfil
+E já possuir uma foto de perfil
+Então devo poder alterar minha foto
+
+Cenário 3: Excluir foto no perfil
+Dado que sou um usuário
+E estou cadastrado no sistema
+Quando acessar o meu perfil
+E já possuir uma foto de perfil
+Então devo poder excluir minha foto
